@@ -1,7 +1,7 @@
-## Olá! Eu sou o Pedro Henrique
+## Olá! Eu sou o Pedro Henrique 👋
 
-- 🔭 Hoje trabalho com testes de software
-- 🌱 Estudando Cypress e JavaScript 
+- 💻 Hoje trabalho com testes de software
+- ⏳  Estudando Cypress e JavaScript 
 - 😄 Pronomes: Ele/dele
 
 ##
