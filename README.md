@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Henrique 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+Eu+sou+o+Pedro+Henrique+👋;Sejam+bem-vindos+ao+meu+GITHUB)](https://git.io/typing-svg)
 
 - :computer: Hoje trabalho com testes de software
 - :brain:  Estudando Cypress e JavaScript 
