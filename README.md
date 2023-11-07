@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Pedro Henrique 👋
 
-- 💻 Hoje trabalho com testes de software
-- ⏳  Estudando Cypress e JavaScript 
-- 😄 Pronomes: Ele/dele
+- :computer: Hoje trabalho com testes de software
+- :brain:  Estudando Cypress e JavaScript 
+
 
 ##
 
@@ -22,6 +22,7 @@
   <img align="center" alt="PH-FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="PH-HEROKU" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/heroku/heroku-original-wordmark.svg">
   <img align="center" alt="PH-JENKINS" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="PH-POSTMAN" height="30" width="40" src="https://raw.githubusercontent.com/gerardpuigl/Technology-Stack-Icons/main/Logos/postman.svg">
   <img align="center" alt="PH-JIRA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="PH-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="PH-CYPRESS" height="30" width="40" src="https://github.com/pedrobsb30/pedrobsb30/assets/62906853/de0ad21c-ee7d-4ef6-be1e-9105aa855875"> 
