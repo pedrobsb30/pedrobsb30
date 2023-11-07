@@ -6,8 +6,8 @@
 
 ##
 
-  ![pedrobsb30 GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=dracula)  
-  <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=dracula">
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pedrobsb30/github-readme-stats#gh-light-mode-only)
+    <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=transparent">
   
 ##
 <div style="display: inline_block"><br>
@@ -24,9 +24,10 @@
   <img align="center" alt="PH-JENKINS" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="PH-JIRA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="PH-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="PH-CYPRESS" height="30" width="40" src="https://github.com/pedrobsb30/pedrobsb30/assets/62906853/de0ad21c-ee7d-4ef6-be1e-9105aa855875"> 
   <img align="center" alt="PH-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="PH-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/github/github-original-wordmark.svg"> 
-
+ 
   
   <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
 
