@@ -6,9 +6,8 @@
 
 ##
 
-  ![pedrobsb30 GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=dark)
-  
-  <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=dark">
+  ![pedrobsb30 GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=dracula)  
+  <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=dracula">
   
 ##
 <div style="display: inline_block"><br>
