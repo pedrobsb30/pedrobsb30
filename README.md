@@ -6,8 +6,8 @@
 
 ##
 
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=transparent">
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=transparent">
+ <img width="42%" src= "https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=transparent">
+ <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=transparent">
   
 ##
 <div style="display: inline_block"><br>
@@ -23,15 +23,10 @@
   <img align="center" alt="PH-HEROKU" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/heroku/heroku-original-wordmark.svg">
   <img align="center" alt="PH-JENKINS" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="PH-JIRA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/jira/jira-original-wordmark.svg">
- 
-
-  <img align="center" alt="Carlos-mysql" height="30" width="40" src=" ">
+  <img align="center" alt="PH-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="PH-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="PH-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/github/github-original-wordmark.svg"> 
 
-
-
-   <img align="center" alt="Carlos-mysql" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/devicon/devicon-original.svg">
   
   <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
 
