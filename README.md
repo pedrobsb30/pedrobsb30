@@ -5,7 +5,7 @@
 - 😄 Pronomes: Ele/dele
 
   ##
- ![pedrobsb30 GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=radical)
+ ![pedrobsb30 GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=transparent)
    ##
 
    
