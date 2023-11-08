@@ -29,9 +29,13 @@
   <img align="center" alt="PH-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="PH-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/github/github-original-wordmark.svg"> 
  
-  
+  <br>
+  <br>
+  <br>
   <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
-
+  </br>
+  </br>
+  </br>
 ##
  
 <div> 
