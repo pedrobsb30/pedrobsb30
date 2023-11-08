@@ -17,7 +17,7 @@
   <img align="center" alt="PH-mysql" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="PH-APPLE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="PH-ANDROID" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/android/android-plain-wordmark.svg">
-  <img align="center" alt="PH-CHROME" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/chrome/chrome-original-wordmark.svg">
+<a href="https://www.google.pt/intl/pt-PT/chrome/"><img align="center" alt="PH-CHROME" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/chrome/chrome-original-wordmark.svg"></a> 
   <img align="center" alt="PH-FIREFOX" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/firefox/firefox-original-wordmark.svg">
   <img align="center" alt="PH-FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="PH-HEROKU" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/heroku/heroku-original-wordmark.svg">
