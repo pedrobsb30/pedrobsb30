@@ -32,7 +32,7 @@
   <br>
   <br>
   <br>
-  <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://github.com/pedrobsb30/pedrobsb30/assets/62906853/0d20ce49-a87c-42bc-b25d-9f9222ed5549.gif">
+  <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZhbmN6eXQ2Nzc0bDhvNHplaWxyc3NuZDQzbmo3cjBzeG1ucHdsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
   </br>
   </br>
   </br>
