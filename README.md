@@ -43,3 +43,8 @@
   
   
 </div>
+
+
+
+
+![snake gif](https://github.com/pedrobsb30/pedrobsb30/blob/output/github-contribution-grid-snake.svg)
