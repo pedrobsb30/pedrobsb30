@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="PH-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PH-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="PH-POSTGRE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+ <!-- <img align="center" alt="PH-POSTGRE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"> não utlizado -->
   <img align="center" alt="PH-mysql" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="PH-APPLE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="PH-ANDROID" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/android/android-plain-wordmark.svg">
@@ -31,9 +31,8 @@
  
   <br>
   <br>
-  <br>
-  <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZhbmN6eXQ2Nzc0bDhvNHplaWxyc3NuZDQzbmo3cjBzeG1ucHdsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
-  </br>
+  <img align="right"  alt="Carlos-gif" height="290" width="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZhbmN6eXQ2Nzc0bDhvNHplaWxyc3NuZDQzbmo3cjBzeG1ucHdsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
+<!--  <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif"> gif não utilizado -->
   </br>
   </br>
 
