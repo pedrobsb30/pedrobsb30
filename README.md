@@ -32,7 +32,7 @@
   <br>
   <br>
   <br>
-  <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif">
+  <img align="right"  alt="Carlos-gif" height="177" width="240" src="https://github.com/pedrobsb30/pedrobsb30/assets/62906853/0d20ce49-a87c-42bc-b25d-9f9222ed5549.gif">
   </br>
   </br>
   </br>
