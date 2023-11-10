@@ -6,8 +6,14 @@
 
 ##
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pedrobsb30/github-readme-stats#gh-light-mode-only)
-    <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=transparent">
+<a href="https://github.com/pedrobsb30">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=dark">
+
+
+
+<!-- [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pedrobsb30&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/pedrobsb30/github-readme-stats#gh-light-mode-only) -->
+<!--   <img width="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30&layout=compact&langs_count=7&theme=transparent"> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobsb30)](https://github.com/pedrobsb30/github-readme-stats) -->
 
  
