@@ -28,7 +28,7 @@
   <a href="https://www.postman.com/">                        <img align="center" alt="PH-POSTMAN" height="30" width="40" src="https://raw.githubusercontent.com/gerardpuigl/Technology-Stack-Icons/main/Logos/postman.svg"></a>
   <a href="https://www.atlassian.com/br/software/jira">      <img align="center" alt="PH-JIRA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/jira/jira-original-wordmark.svg"></a>
   <a href="https://code.visualstudio.com/download">          <img align="center" alt="PH-VSCODE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/vscode/vscode-original-wordmark.svg"></a>
-  <a href="https://docs.cypress.io/">                        <img align="center" alt="PH-CYPRESS" height="30" width="40" src="https://github.com/pedrobsb30/pedrobsb30/assets/62906853/de0ad21c-ee7d-4ef6-be1e-9105aa855875"></a>
+  <a href="https://docs.cypress.io/guides/overview/why-cypress/">                        <img align="center" alt="PH-CYPRESS" height="30" width="40" src="https://github.com/pedrobsb30/pedrobsb30/assets/62906853/de0ad21c-ee7d-4ef6-be1e-9105aa855875"></a>
   <a href="https://www.figma.com/downloads/">                <img align="center" alt="PH-FIGMA" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/figma/figma-original.svg"></a>
   <a href="https://github.com/">                             <img align="center" alt="PH-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/github/github-original-wordmark.svg"></a>
 
