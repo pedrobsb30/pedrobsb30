@@ -21,7 +21,8 @@
 <div style="display: inline_block"><br>
   <a href="https://nodejs.org/en/download">                  <img align="center" alt="PH-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a>
   <a href="https://nodejs.org/en/download">                  <img align="center" alt="PH-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></a>
-  <a href="https://www.npmjs.com/">                          <img align="center" alt="PH-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
+  <a href="https://mochajs.org/">                            <img align="center" alt="PH-MOCHA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg"></a>
+  <a href="https://www.npmjs.com/">                          <img align="center" alt="PH-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"></a>
   <a href="https://www.mongodb.com/try/download/">           <img align="center" alt="PH-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></a>
   <a href="https://www.mysql.com/downloads/">                <img align="center" alt="PH-mysql" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/mysql/mysql-plain-wordmark.svg"></a>
   <a href="https://developer.apple.com/ios/planning/">       <img align="center" alt="PH-APPLE" height="30" width="40" src="https://raw.githubusercontent.com/pedrobsb30/devicon/master/icons/apple/apple-original.svg"></a>
